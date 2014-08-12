@@ -34,8 +34,6 @@ WCHAR	g_szMessage[4][1024] = {0};
 
 //--------------------------------------------------------------
 void ofxXboxController::setup(){
-	HINSTANCE hInstance;
-	hInstance = GetModuleHandle(NULL);
 
    // Initialize COM
     HRESULT hr;
