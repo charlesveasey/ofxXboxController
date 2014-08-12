@@ -1,6 +1,8 @@
 ofxXboxController
 =================
 
+Xbox controller addon for openFrameworks.
+
 Windows only. See example for use. 
 
 Reference:  
