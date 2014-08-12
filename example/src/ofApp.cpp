@@ -10,9 +10,6 @@ void ofApp::setup(){
 	deadZone = true;
 	
 	sphere.setRadius(100);
-
-	ofImage img;
-	img.getTextureReference();
 }
 
 //--------------------------------------------------------------
