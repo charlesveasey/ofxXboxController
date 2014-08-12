@@ -19,3 +19,11 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio
+*.exp
+*.sdf
+*.pdb
+*.suo
+*.ilk
+obj/
